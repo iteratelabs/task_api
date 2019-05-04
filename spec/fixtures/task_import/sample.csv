@@ -1,0 +1,5 @@
+description,points,task_type,status,requester,owner,tags
+Implement checkout,4,feature,unstarted,John Doe,Joe Schmoe,checkout; money; ecommerce
+Implement product listing page,2,feature,started,John Doe,Scott Lake,products; store; ecommerce
+Fix add to bag,1,bug,finished,Jane Doe,Aaron Smith,store; ecommerce; bag
+Upgrade database,3,chore,delivered,John Doe, Joe Schmoe,devops; improvement
