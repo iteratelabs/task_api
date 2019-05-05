@@ -28,6 +28,9 @@ You are allowed to use any resources from the internet to complete this but you 
     - we use https://github.com/Netflix/fast_jsonapi as our serializer so refer to that for documentation
     - *Bonus* write tests for your serializers
 
+### HINT
+Make sure you have replaced all the `TODO's` in the code. They exist everywhere you need to write code besides the bug in `TaskImport#perform`. There are four in total.
+
 ### Setup
 To setup this project:
 
