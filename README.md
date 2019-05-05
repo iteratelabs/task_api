@@ -51,3 +51,10 @@ To run the tests:
 ```
 $ bundle exec rake
 ```
+
+### Running the Ruby on Rails server
+To run the rails server and test your api on port 3000:
+
+```
+$ rails s
+```
