@@ -1,4 +1,4 @@
 class TagSerializer
   include FastJsonapi::ObjectSerializer
-  # To fill out
+  # TODO: To fill out
 end
